@@ -7,9 +7,8 @@ The C Arithmetic Operators are of two types based on the number of operands they
 
 1. Binary Arithmetic Operators
 
-2. Unary Arithmetic Operators
-
 // C program to demonstrate syntax of binary arithmetic
+
 // operators
 #include <stdio.h>
  
@@ -39,3 +38,17 @@ int main()
  
     return 0;
 }
+
+Output:
+
+a is 10 and b is 4
+
+a + b is 14
+
+a - b is 6
+
+a * b is 40
+
+a / b is 2
+
+a % b is 2
